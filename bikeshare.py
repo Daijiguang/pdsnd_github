@@ -145,7 +145,7 @@ def user_stats(df, city):
 
     if city == 'washington':
         return
-        
+   -     
     print('\nGenders:')
     genders_counts = dict(df['Gender'].value_counts())
     for gender, count in genders_counts.items():
@@ -193,4 +193,4 @@ def main():
 
 if __name__ == '__main__':
     main()  
-    
+ -   
