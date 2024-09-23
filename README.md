@@ -26,4 +26,6 @@ The dataset includes core columns: start time, end time, travel duration, start 
 * Counts of each gender (NYC and Chicago only)
 * Earliest, most recent, and most common year of birth (NYC and Chicago only)
 ﻿
+
+
  
